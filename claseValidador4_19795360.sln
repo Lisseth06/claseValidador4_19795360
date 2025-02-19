@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "claseValidador4_19795360", "claseValidador4_19795360\claseValidador4_19795360.csproj", "{3D29D7C7-2D8D-4B87-9045-52E22748E960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D29D7C7-2D8D-4B87-9045-52E22748E960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D29D7C7-2D8D-4B87-9045-52E22748E960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D29D7C7-2D8D-4B87-9045-52E22748E960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D29D7C7-2D8D-4B87-9045-52E22748E960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E70051C-BDF0-4F7F-8D8E-610984E14683}
+	EndGlobalSection
+EndGlobal
